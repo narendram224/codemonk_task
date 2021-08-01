@@ -7,8 +7,7 @@ class item{
     todoList =[];
 
     constructor(itemName){
-        // this.todoList =list;
-      //create the first div
+ 
       this.createDiv(itemName);
     }
     createDiv(itemName){
